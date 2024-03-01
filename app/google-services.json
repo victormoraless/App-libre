@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646306269167",
+    "project_id": "hospitaldatamanager",
+    "storage_bucket": "hospitaldatamanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646306269167:android:3205f75c48389a1f4e181a",
+        "android_client_info": {
+          "package_name": "com.android.hospitaldatamanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRajW5e-V9pqrYe_Sm-maZc0rQ3ZbGQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
